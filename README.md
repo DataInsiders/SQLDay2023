@@ -53,7 +53,7 @@ Come to the workshop, learn ADX from scratch and see how it works in different s
 <li>**Technical posts:**
 <li>Technical whitepaper: https://aka.ms/adx.techwhitepaper
 <li>Performance benchmark https://aka.ms/ADX.Benchmark.post
-<ul>
+</ul>
 <br>  
 **Day 1 (conference)**
 <br>Session: Back to the future, or analytics on the Microsoft platform today and tomorrow
