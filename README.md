@@ -41,7 +41,7 @@ Come to the workshop, learn ADX from scratch and see how it works in different s
 <ul>
 <li>https://aka.ms/learn.adx
 <li>https://aka.ms/learn.kql
-
+</ul>
 <li>**Pluralsight**
   <ul>
 <li>https://aka.ms/adx.pluralsight - To activate the free benefit
@@ -49,7 +49,7 @@ Come to the workshop, learn ADX from scratch and see how it works in different s
 <li>https://aka.ms/adx.pluralsight.azure-data-exploring
 <li>https://aka.ms/adx.pluralsight.kql-from-scratch
 <li>https://aka.ms/adx.pluralsight.advanced-kql
-
+</ul>
 <li>**Technical posts:**
 <li>Technical whitepaper: https://aka.ms/adx.techwhitepaper
 <li>Performance benchmark https://aka.ms/ADX.Benchmark.post
