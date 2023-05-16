@@ -53,19 +53,21 @@ Come to the workshop, learn ADX from scratch and see how it works in different s
 <li>**Technical posts:**
 <li>Technical whitepaper: https://aka.ms/adx.techwhitepaper
 <li>Performance benchmark https://aka.ms/ADX.Benchmark.post
-
+<ul>
+<br>  
 **Day 1 (conference)**
-Session: Back to the future, or analytics on the Microsoft platform today and tomorrow
-
-The last few years have seen a dynamic development of various analytical and reporting concepts and platforms. The cloud has become an accelerator of many ideas, both more and less hit. Whether you're going down the road of a data warehouse or a lakehouse, the Microsoft ecosystem supports your decisions. During this session we will take you on a journey to the future of analytics according to Microsoft, join and see how your knowledge and experience of today's world of analytics may be useful soon...
-
+<br>Session: Back to the future, or analytics on the Microsoft platform today and tomorrow
+<br>
+<br>The last few years have seen a dynamic development of various analytical and reporting concepts and platforms. The cloud has become an accelerator of many ideas, both more and less hit. Whether you're going down the road of a data warehouse or a lakehouse, the Microsoft ecosystem supports your decisions. During this session we will take you on a journey to the future of analytics according to Microsoft, join and see how your knowledge and experience of today's world of analytics may be useful soon...
+<br>
 Link: https://github.com/DataInsiders/SQLDay2023/blob/main/Back%20to%20the%20future%20-%20analytics%20on%20the%20Microsoft%20platform%20today%20and%20tomorrow.pdf
-
+<br>
+  <br>
 **Day 2 (conference)**
-Session: Optimize KPI reporting using Power BI metrics
-
+<br>Session: Optimize KPI reporting using Power BI metrics
+<br>
 In every organization it is important to be able to follow up on KPIs in order to understand how the business are doing. KPIs used in the business can often be found in existing Power BI reports, however, following up on KPIs across multiple reports are not effective. Instead you should use Power BI metrics where you easily can get an overview over KPIs that are relevant.
 In this session we will take a deep dive into Power BI metrics, this include everything from creating KPIs, following up on KPIs, automating status on KPIs and consuming KPIs
-
+<br>
 Link: https://github.com/DataInsiders/SQLDay2023/blob/main/Optimize%20KPI%20reporting%20using%20Power%20BI%20Metrics.pdf
 
