@@ -5,49 +5,54 @@
 **Explore the ocean of data with Azure Data Explorer** aka Data Explorer in a day
 Azure Data Explorer aka ADX aka Kusto is a fully managed, high-performance big data analytics platform that makes it easy to analyze large amounts of data in near real time. So much marketing, and what in practice?
 Come to the workshop, learn ADX from scratch and see how it works in different scenarios. Let's promise a lot of hands-on and just a little talk of two dinosaurs
+<ul>
+<li>ADX Product Page https://aka.ms/adx.pp
+<li>Docs https://aka.ms/adx.docs
+<li>Cost estimator https://aka.ms/adx.cost 
+<li>Customer stories https://aka.ms/ADX.Customers
+<li>Preloaded open ‘help’ ADX cluster http://aka.ms/adx.try
+<li>Queries that can run on this cluster ('Samples' DB): https://aka.ms/adx/query.tutorial and throughout the docs.
+<li>Start for free https://aka.ms/ADX.Free
+<li>YouTube Channel https://aka.ms/adx/youtube
+<li>Including the ADX intro video: https://aka.ms/ADX.Intro
+<li>Reference architecture (integration with other components) https://aka.ms/adx.architectures.video
+<li>Written version: https://aka.ms/adx.architectures
+<li>ADX product team blog (this blog) https://aka.ms/adx.blog
+<li>Twitter @AzDataExplorer
+<li>LinkedIn group https://www.linkedin.com/groups/12147235/
+<li>Stack overflow https://aka.ms/adx.sof
+<li>KQL cheat sheets
+  <ul>
+<li>https://aka.ms/SQL2KQL
+<li>https://aka.ms/ADX.KQL.Quick
+<li>https://github.com/marcusbakker/KQL
+  </ul>
+<li>KQL tutorial (you can run the KQL on the “help” cluster) https://aka.ms/adx/query.tutorial
+<li>Learn and practice KQL (community content) https://aka.ms/MustLearnKQL
+<li>KQL Overview video https://aka.ms/ADX.KQL.Video 
+<li>MS learn modules and free Pluralsight courses
+<ul>
+<li>https://aka.ms/adx/start
+<li>https://aka.ms/ADX.Learn.Dashbboards 
+<li>https://aka.ms/ADX.Learn.Queries
+</ul>
+  
+<li>MS Learn modules
+<ul>
+<li>https://aka.ms/learn.adx
+<li>https://aka.ms/learn.kql
 
-ADX Product Page https://aka.ms/adx.pp
-Docs https://aka.ms/adx.docs
-Cost estimator https://aka.ms/adx.cost 
-Customer stories https://aka.ms/ADX.Customers
-Preloaded open ‘help’ ADX cluster http://aka.ms/adx.try
-Queries that can run on this cluster ('Samples' DB): https://aka.ms/adx/query.tutorial and throughout the docs.
-Start for free https://aka.ms/ADX.Free
-YouTube Channel https://aka.ms/adx/youtube
-Including the ADX intro video: https://aka.ms/ADX.Intro
-Reference architecture (integration with other components) https://aka.ms/adx.architectures.video
-Written version: https://aka.ms/adx.architectures
-ADX product team blog (this blog) https://aka.ms/adx.blog
-Twitter @AzDataExplorer
-LinkedIn group https://www.linkedin.com/groups/12147235/
-Stack overflow https://aka.ms/adx.sof
-KQL cheat sheets
-https://aka.ms/SQL2KQL
-https://aka.ms/ADX.KQL.Quick
-https://github.com/marcusbakker/KQL
+<li>**Pluralsight**
+  <ul>
+<li>https://aka.ms/adx.pluralsight - To activate the free benefit
+<li>https://aka.ms/adx.pluralsight.how-to-start-with-adx
+<li>https://aka.ms/adx.pluralsight.azure-data-exploring
+<li>https://aka.ms/adx.pluralsight.kql-from-scratch
+<li>https://aka.ms/adx.pluralsight.advanced-kql
 
-KQL tutorial (you can run the KQL on the “help” cluster) https://aka.ms/adx/query.tutorial
-Learn and practice KQL (community content) https://aka.ms/MustLearnKQL
-KQL Overview video https://aka.ms/ADX.KQL.Video 
-MS learn modules and free Pluralsight courses
-https://aka.ms/adx/start
-https://aka.ms/ADX.Learn.Dashbboards 
-https://aka.ms/ADX.Learn.Queries
-
-MS Learn modules
-https://aka.ms/learn.adx
-https://aka.ms/learn.kql
-
-**Pluralsight**
-https://aka.ms/adx.pluralsight - To activate the free benefit
-https://aka.ms/adx.pluralsight.how-to-start-with-adx
-https://aka.ms/adx.pluralsight.azure-data-exploring
-https://aka.ms/adx.pluralsight.kql-from-scratch
-https://aka.ms/adx.pluralsight.advanced-kql
-
-**Technical posts:**
-Technical whitepaper: https://aka.ms/adx.techwhitepaper
-Performance benchmark https://aka.ms/ADX.Benchmark.post
+<li>**Technical posts:**
+<li>Technical whitepaper: https://aka.ms/adx.techwhitepaper
+<li>Performance benchmark https://aka.ms/ADX.Benchmark.post
 
 **Day 1 (conference)**
 Session: Back to the future, or analytics on the Microsoft platform today and tomorrow
